@@ -14,7 +14,7 @@ secret number.
 The Program in Action
 When you run bagels.py, the output will look like this:
 Bagels, a deductive logic game.
-By Al Sweigart al@inventwithpython.com
+
 I am thinking of a 3-digit number. Try to guess what it is.
 Here are some clues:
 When I say:
@@ -46,3 +46,20 @@ You got it!
 Do you want to play again? (yes or no)
 > no
 Thanks for playing!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
